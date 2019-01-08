@@ -1,3 +1,3 @@
 # pong-app
 
-The game of pong for arduino UNO
+1. The game of pong for arduino UNO
